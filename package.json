@@ -1,0 +1,31 @@
+{
+  "name": "nadi-bengaluru-lake-guide",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit && vite build",
+    "test": "vitest run",
+    "check:data": "tsc --noEmit --pretty false",
+    "catalog:build": "node scripts/build-lake-catalog.mjs"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^5.2.0",
+    "jsdom": "^26.1.0",
+    "typescript": "^7.0.2",
+    "vite": "^7.1.3",
+    "vite-plugin-pwa": "^1.3.0",
+    "vitest": "^3.2.7"
+  },
+  "dependencies": {
+    "maplibre-gl": "^6.7.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.3",
+    "zod": "^4.5.4"
+  }
+}

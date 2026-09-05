@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.vite/
+.DS_Store
+
+# Local environment overrides and secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Test and tooling output
+coverage/
+*.log

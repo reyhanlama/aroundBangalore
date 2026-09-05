@@ -1,0 +1,3622 @@
+[
+  {
+    "id": "blr-lake-001",
+    "slug": "ambalipura-kelagina-kere",
+    "name": "Ambalipura Kelagina kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No.150      Bellandur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "1"
+    }
+  },
+  {
+    "id": "blr-lake-002",
+    "slug": "gunjur-palya-kere",
+    "name": "Gunjur Palya kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no.149         Varthur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "2"
+    }
+  },
+  {
+    "id": "blr-lake-003",
+    "slug": "gunjuru-karmelaram-lake",
+    "name": "Gunjuru Karmelaram lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no.149         Varthur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "3"
+    }
+  },
+  {
+    "id": "blr-lake-004",
+    "slug": "panathur-lake",
+    "name": "Panathur lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no.149         Varthur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "4"
+    }
+  },
+  {
+    "id": "blr-lake-005",
+    "slug": "varanasi-lake",
+    "name": "Varanasi Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no.54              Hoodi",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "5"
+    }
+  },
+  {
+    "id": "blr-lake-006",
+    "slug": "amblipura-melina-kere",
+    "name": "Amblipura melina kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No.150      Bellandur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "6"
+    }
+  },
+  {
+    "id": "blr-lake-007",
+    "slug": "kaigondanahalli-lake",
+    "name": "Kaigondanahalli Lake",
+    "aliases": [
+      "Kaikondrahalli Lake"
+    ],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No.150      Bellandur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "report_in_progress",
+    "coordinates": [
+      77.6807,
+      12.9113
+    ],
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "7"
+    }
+  },
+  {
+    "id": "blr-lake-008",
+    "slug": "kasavanahalli-lake",
+    "name": "Kasavanahalli lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No.150      Bellandur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "8"
+    }
+  },
+  {
+    "id": "blr-lake-009",
+    "slug": "haraluru-kere",
+    "name": "Haraluru kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No.150      Bellandur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "9"
+    }
+  },
+  {
+    "id": "blr-lake-010",
+    "slug": "sowl-kere",
+    "name": "Sowl kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No.150      Bellandur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "10"
+    }
+  },
+  {
+    "id": "blr-lake-011",
+    "slug": "devarabeesanahalli-lake",
+    "name": "Devarabeesanahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No.150      Bellandur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "11"
+    }
+  },
+  {
+    "id": "blr-lake-012",
+    "slug": "doddakanahalli-kere",
+    "name": "Doddakanahalli kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No.150      Bellandur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "12"
+    }
+  },
+  {
+    "id": "blr-lake-013",
+    "slug": "munnekolalu-kere",
+    "name": "Munnekolalu kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No. 85  Doddenekundi",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "13"
+    }
+  },
+  {
+    "id": "blr-lake-014",
+    "slug": "chinnappanahalli",
+    "name": "Chinnappanahalli",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No. 85  Doddenekundi",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "14"
+    }
+  },
+  {
+    "id": "blr-lake-015",
+    "slug": "shilavanthana-kere",
+    "name": "Shilavanthana kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no 84           Hagadur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "15"
+    }
+  },
+  {
+    "id": "blr-lake-016",
+    "slug": "kundalahalli-lake",
+    "name": "Kundalahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No. 85  Doddenekundi",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "16"
+    }
+  },
+  {
+    "id": "blr-lake-017",
+    "slug": "siddapura-lake",
+    "name": "Siddapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no 84           Hagadur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "17"
+    }
+  },
+  {
+    "id": "blr-lake-018",
+    "slug": "garudachar-palya-lake",
+    "name": "Garudachar Palya Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No. 82\nGarudacharPalya",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "18"
+    }
+  },
+  {
+    "id": "blr-lake-019",
+    "slug": "garudachar-palya-goshala-lake",
+    "name": "Garudachar Palya (Goshala) Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No. 82\nGarudacharPalya",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "19"
+    }
+  },
+  {
+    "id": "blr-lake-020",
+    "slug": "doddanekundi-lake",
+    "name": "Doddanekundi lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No. 85  Doddenekundi",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "20"
+    }
+  },
+  {
+    "id": "blr-lake-021",
+    "slug": "sadaramangala-lake",
+    "name": "Sadaramangala Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no - 54            Hoodi",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "21"
+    }
+  },
+  {
+    "id": "blr-lake-022",
+    "slug": "bhoganahalli-lake",
+    "name": "Bhoganahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No.150      Bellandur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "22"
+    }
+  },
+  {
+    "id": "blr-lake-023",
+    "slug": "hoodi-giddanakere-lake",
+    "name": "Hoodi Giddanakere Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No. 82\nGarudacharPalya",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "23"
+    }
+  },
+  {
+    "id": "blr-lake-024",
+    "slug": "hoodi-kere",
+    "name": "Hoodi kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no.54              Hoodi",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "25"
+    }
+  },
+  {
+    "id": "blr-lake-025",
+    "slug": "nalluralli-tank",
+    "name": "Nalluralli tank",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no 84           Hagadur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "26"
+    }
+  },
+  {
+    "id": "blr-lake-026",
+    "slug": "sitarampalya-lake",
+    "name": "SitaramPalya lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No. 82\nGarudacharPalya",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "27"
+    }
+  },
+  {
+    "id": "blr-lake-027",
+    "slug": "chikkabellandur-lake",
+    "name": "Chikkabellandur Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no.149         Varthur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "28"
+    }
+  },
+  {
+    "id": "blr-lake-028",
+    "slug": "pattandur-agrahara-54-lake",
+    "name": "Pattandur agrahara -54 Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No. 83        Kadugodi",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "29"
+    }
+  },
+  {
+    "id": "blr-lake-029",
+    "slug": "pattandur-agrahara-lake-124",
+    "name": "Pattandur agrahara lake-124",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No. 82\nGarudachar Palya",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "30"
+    }
+  },
+  {
+    "id": "blr-lake-030",
+    "slug": "rampura-kere",
+    "name": "Rampura kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no 25       Horamavu",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "31"
+    }
+  },
+  {
+    "id": "blr-lake-031",
+    "slug": "gunjur-mouji-kere",
+    "name": "Gunjur mouji kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward no.149         Varthur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "32"
+    }
+  },
+  {
+    "id": "blr-lake-032",
+    "slug": "junnasandra-lake",
+    "name": "Junnasandra lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Mahadevapura",
+    "ward": "Ward No.150      Bellandur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "33"
+    }
+  },
+  {
+    "id": "blr-lake-033",
+    "slug": "chikkabasavanapura-lake",
+    "name": "Chikkabasavanapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No.53 Basavanapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "34"
+    }
+  },
+  {
+    "id": "blr-lake-034",
+    "slug": "mahadevapura-lake-1",
+    "name": "Mahadevapura Lake-1",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No. 81       Vignana\nnagara",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "35"
+    }
+  },
+  {
+    "id": "blr-lake-035",
+    "slug": "sigehalli-lake",
+    "name": "Sigehalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No.53 Basavanapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "36"
+    }
+  },
+  {
+    "id": "blr-lake-036",
+    "slug": "devsandra-kere",
+    "name": "Devsandra kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No.55       Devasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "37"
+    }
+  },
+  {
+    "id": "blr-lake-037",
+    "slug": "challakere-lake",
+    "name": "Challakere Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward no 25       Horamavu",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "38"
+    }
+  },
+  {
+    "id": "blr-lake-038",
+    "slug": "kalkere-lake",
+    "name": "Kalkere Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No.26    Ramamurthy\nNagara",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "39"
+    }
+  },
+  {
+    "id": "blr-lake-039",
+    "slug": "vibhuthipura-kere",
+    "name": "Vibhuthipura kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No. 81       Vignana\nnagara",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "40"
+    }
+  },
+  {
+    "id": "blr-lake-040",
+    "slug": "k-r-puram-beml-benniganahalli-lake",
+    "name": "K R Puram (BEML)/ Benniganahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No.51      Vijanapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "41"
+    }
+  },
+  {
+    "id": "blr-lake-041",
+    "slug": "hormavu-agara-lake",
+    "name": "Hormavu Agara Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward no 25       Horamavu",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "42"
+    }
+  },
+  {
+    "id": "blr-lake-042",
+    "slug": "nagareshwara-nagenahalli-lake",
+    "name": "Nagareshwara-Nagenahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward no 25       Horamavu",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "43"
+    }
+  },
+  {
+    "id": "blr-lake-043",
+    "slug": "gangashetty-lake",
+    "name": "Gangashetty Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward no 52      K R Puram",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "44"
+    }
+  },
+  {
+    "id": "blr-lake-044",
+    "slug": "horamavu-lake",
+    "name": "Horamavu Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward no 25       Horamavu",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "45"
+    }
+  },
+  {
+    "id": "blr-lake-045",
+    "slug": "vengaiahna-kere-k-r-puram-tank",
+    "name": "Vengaiahna kere /K.R.Puram Tank",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward no 52      K R Puram",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "46"
+    }
+  },
+  {
+    "id": "blr-lake-046",
+    "slug": "mahadevapura-lake-2",
+    "name": "Mahadevapura Lake-2",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No. 81       Vignana\nnagara",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "47"
+    }
+  },
+  {
+    "id": "blr-lake-047",
+    "slug": "b-narayanapura-lake",
+    "name": "B. Narayanapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No. 56\nA Narayanapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "48"
+    }
+  },
+  {
+    "id": "blr-lake-048",
+    "slug": "bhattarahalli-lake",
+    "name": "Bhattarahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No.53 Basavanapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "49"
+    }
+  },
+  {
+    "id": "blr-lake-049",
+    "slug": "kowdenahalli-lake",
+    "name": "Kowdenahalli lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward no 26\nRamamurthy Nagara",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "50"
+    }
+  },
+  {
+    "id": "blr-lake-050",
+    "slug": "vijanapura-lake",
+    "name": "Vijanapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No.51      Vijanapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "51"
+    }
+  },
+  {
+    "id": "blr-lake-051",
+    "slug": "ulsoor-bangalore-north",
+    "name": "Ulsoor / Bangalore North",
+    "aliases": [
+      "Halasuru Lake"
+    ],
+    "custodian": "BBMP",
+    "zone": "162-Shivajinagar",
+    "ward": "Halasur ward (90)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "report_in_progress",
+    "coordinates": [
+      77.6196,
+      12.9819
+    ],
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "52"
+    }
+  },
+  {
+    "id": "blr-lake-052",
+    "slug": "kelagina-byrasandra",
+    "name": "Kelagina Byrasandra",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "161-C.V.Raman Nagara",
+    "ward": "C.V.Raman Nagar(57)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "53"
+    }
+  },
+  {
+    "id": "blr-lake-053",
+    "slug": "melina-byrasandra-drdo",
+    "name": "Melina Byrasandra (DRDO)",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "161-C.V.Raman Nagara",
+    "ward": "C.V.Raman Nagar(57)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "54"
+    }
+  },
+  {
+    "id": "blr-lake-054",
+    "slug": "kaggadasapura",
+    "name": "Kaggadasapura",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "161-C.V.Raman Nagara",
+    "ward": "C.V.Raman Nagar(57)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "55"
+    }
+  },
+  {
+    "id": "blr-lake-055",
+    "slug": "kacharakanahalli",
+    "name": "Kacharakanahalli",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "160- Sarvagna Nagara",
+    "ward": "Kacharakanahalli(29)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "56"
+    }
+  },
+  {
+    "id": "blr-lake-056",
+    "slug": "channasandra",
+    "name": "Channasandra",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "160- Sarvagna Nagara",
+    "ward": "Channasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "57"
+    }
+  },
+  {
+    "id": "blr-lake-057",
+    "slug": "b-channasandra",
+    "name": "B. Channasandra",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "160- Sarvagna Nagara",
+    "ward": "B. Channasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "58"
+    }
+  },
+  {
+    "id": "blr-lake-058",
+    "slug": "ibblur-lake",
+    "name": "Ibblur Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bommanahalli",
+    "ward": "Ward No: 174\nHSR Layout",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "59"
+    }
+  },
+  {
+    "id": "blr-lake-059",
+    "slug": "venkojirao-kere-agara-kere",
+    "name": "Venkojirao Kere / Agara Kere",
+    "aliases": [
+      "Agara Lake"
+    ],
+    "custodian": "BBMP",
+    "zone": "Bommanahalli",
+    "ward": "Ward No: 174\nHSR Layout",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "report_in_progress",
+    "coordinates": [
+      77.6387,
+      12.9121
+    ],
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "60"
+    }
+  },
+  {
+    "id": "blr-lake-060",
+    "slug": "sarakki-lake",
+    "name": "Sarakki Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bommanahalli",
+    "ward": "Ward No: 186\nJaraganahalli",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "61"
+    }
+  },
+  {
+    "id": "blr-lake-061",
+    "slug": "puttenahalli-lake-next-to-brigade-millenium",
+    "name": "Puttenahalli Lake (Next to Brigade Millenium)",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bommanahalli",
+    "ward": "Ward No 187: Puttenahalli",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "62"
+    }
+  },
+  {
+    "id": "blr-lake-062",
+    "slug": "mangammana-palya-kere",
+    "name": "Mangammana Palya Kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bommanahalli",
+    "ward": "Ward No: 190\nMangammanapalya",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "63"
+    }
+  },
+  {
+    "id": "blr-lake-063",
+    "slug": "haralakunte-lake-somasandra-palya-kere",
+    "name": "Haralakunte Lake (Somasandra Palya Kere)",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bommanahalli",
+    "ward": "Ward No: 190\nMangammanapalya",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "64"
+    }
+  },
+  {
+    "id": "blr-lake-064",
+    "slug": "garveybhavipalya-lake",
+    "name": "Garveybhavipalya Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bommanahalli",
+    "ward": "Ward No: 190\nMangammanapalya",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "65"
+    }
+  },
+  {
+    "id": "blr-lake-065",
+    "slug": "hulimavu-lake",
+    "name": "Hulimavu Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bommanahalli",
+    "ward": "Ward No: 193\nArekere",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "66"
+    }
+  },
+  {
+    "id": "blr-lake-066",
+    "slug": "arakere-lake",
+    "name": "Arakere Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bommanahalli",
+    "ward": "Ward No: 193\nArekere",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "67"
+    }
+  },
+  {
+    "id": "blr-lake-067",
+    "slug": "uttarahalli-lake-bangalore-south",
+    "name": "Uttarahalli Lake / Bangalore South",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 184\nUttarahalli",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "68"
+    }
+  },
+  {
+    "id": "blr-lake-068",
+    "slug": "subramanyapura-lake",
+    "name": "Subramanyapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 184\nUttarahalli",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "69"
+    }
+  },
+  {
+    "id": "blr-lake-069",
+    "slug": "gubbalalu-lake",
+    "name": "Gubbalalu Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 184\nUttarahalli",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "70"
+    }
+  },
+  {
+    "id": "blr-lake-070",
+    "slug": "dorekere",
+    "name": "Dorekere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 184\nUttarahalli,\nWard No: 197\nVassanthpura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "71"
+    }
+  },
+  {
+    "id": "blr-lake-071",
+    "slug": "annappanakere-yelchenahalli-lake",
+    "name": "Annappanakere / Yelchenahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 185\nYalachenahalli",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "72"
+    }
+  },
+  {
+    "id": "blr-lake-072",
+    "slug": "nyanappanahalli-lake-akshayanagara-lake",
+    "name": "Nyanappanahalli Lake / Akshayanagara Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 193\nArekere",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "73"
+    }
+  },
+  {
+    "id": "blr-lake-073",
+    "slug": "kalena-agrahara-lake",
+    "name": "Kalena Agrahara Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "74"
+    }
+  },
+  {
+    "id": "blr-lake-074",
+    "slug": "begur-lake",
+    "name": "Begur Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "75"
+    }
+  },
+  {
+    "id": "blr-lake-075",
+    "slug": "basapura-lake-1",
+    "name": "Basapura Lake-1",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "76"
+    }
+  },
+  {
+    "id": "blr-lake-076",
+    "slug": "basapura-lake-2-bangalore-south",
+    "name": "Basapura Lake-2 / Bangalore South",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "77"
+    }
+  },
+  {
+    "id": "blr-lake-077",
+    "slug": "basavanapura-lake",
+    "name": "Basavanapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "78"
+    }
+  },
+  {
+    "id": "blr-lake-078",
+    "slug": "chikka-begur-lake",
+    "name": "Chikka Begur Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "79"
+    }
+  },
+  {
+    "id": "blr-lake-079",
+    "slug": "kammanahalli-lake-meenakshi-lake",
+    "name": "Kammanahalli Lake (Meenakshi Lake)",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "80"
+    }
+  },
+  {
+    "id": "blr-lake-080",
+    "slug": "yelenahalli-lake",
+    "name": "Yelenahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "81"
+    }
+  },
+  {
+    "id": "blr-lake-081",
+    "slug": "beretena-agrahara-chowdeshwari-lake",
+    "name": "Beretena Agrahara (Chowdeshwari Lake)",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "82"
+    }
+  },
+  {
+    "id": "blr-lake-082",
+    "slug": "subedarana-kere",
+    "name": "Subedarana Kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "83"
+    }
+  },
+  {
+    "id": "blr-lake-083",
+    "slug": "chikkammanahalli-lake",
+    "name": "Chikkammanahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "84"
+    }
+  },
+  {
+    "id": "blr-lake-084",
+    "slug": "swarnakunte-gudda-kere",
+    "name": "Swarnakunte Gudda Kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 192\nBegur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "85"
+    }
+  },
+  {
+    "id": "blr-lake-085",
+    "slug": "gottigere",
+    "name": "Gottigere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 194\nGottigere",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "86"
+    }
+  },
+  {
+    "id": "blr-lake-086",
+    "slug": "kothanuru-lake",
+    "name": "Kothanuru Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 194\nGottigere",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "87"
+    }
+  },
+  {
+    "id": "blr-lake-087",
+    "slug": "subbarayana-lake",
+    "name": "Subbarayana Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 194\nGottigere",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "88"
+    }
+  },
+  {
+    "id": "blr-lake-088",
+    "slug": "puttenahalli-byraweshwara-nagara-chunchaghatta-kere",
+    "name": "Puttenahalli / Byraweshwara nagara Chunchaghatta Kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 195 Konanakunte",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "89"
+    }
+  },
+  {
+    "id": "blr-lake-089",
+    "slug": "anjanapura-lake-alahalli",
+    "name": "Anjanapura Lake / Alahalli",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 196\nAnjanapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "90"
+    }
+  },
+  {
+    "id": "blr-lake-090",
+    "slug": "kembathahalli-lake",
+    "name": "Kembathahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 196\nAnjanapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "91"
+    }
+  },
+  {
+    "id": "blr-lake-091",
+    "slug": "vasanthapura-kere-janardhana-kere",
+    "name": "Vasanthapura Kere / Janardhana Kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 197\nVasanthapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "92"
+    }
+  },
+  {
+    "id": "blr-lake-092",
+    "slug": "devarakere",
+    "name": "Devarakere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 197\nVasanthapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "93"
+    }
+  },
+  {
+    "id": "blr-lake-093",
+    "slug": "doddakallasandra-lake",
+    "name": "Doddakallasandra Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 197\nVasanthapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "94"
+    }
+  },
+  {
+    "id": "blr-lake-094",
+    "slug": "konanakunte-lake",
+    "name": "Konanakunte Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 197\nVasanthapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "95"
+    }
+  },
+  {
+    "id": "blr-lake-095",
+    "slug": "kalyanikunte-near-saibaba-temple",
+    "name": "Kalyanikunte (Near Saibaba Temple)",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 197\nVasanthapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "96"
+    }
+  },
+  {
+    "id": "blr-lake-096",
+    "slug": "kodige-singasandra-lake",
+    "name": "Kodige Singasandra Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 191\nSingasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "97"
+    }
+  },
+  {
+    "id": "blr-lake-097",
+    "slug": "parappana-agrahara-bangalore-south",
+    "name": "Parappana Agrahara / Bangalore South",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 191\nSingasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "98"
+    }
+  },
+  {
+    "id": "blr-lake-098",
+    "slug": "singasandra-lake-bangalore-south",
+    "name": "Singasandra Lake Bangalore South",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 191\nSingasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "99"
+    }
+  },
+  {
+    "id": "blr-lake-099",
+    "slug": "konappana-agrahara-lake",
+    "name": "Konappana Agrahara Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 191\nSingasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "100"
+    }
+  },
+  {
+    "id": "blr-lake-100",
+    "slug": "kudlu-doddakere-anekal-taluk-and-bengaluru-south-taluk",
+    "name": "Kudlu Doddakere / Anekal Taluk and Bengaluru South Taluk",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Anekal & Bengaluru South",
+    "ward": "Ward No: 191\nSingasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "101"
+    }
+  },
+  {
+    "id": "blr-lake-101",
+    "slug": "kudlu-chikka-kere-anekal-taluk",
+    "name": "Kudlu Chikka Kere / Anekal Taluk",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Anekal",
+    "ward": "Ward No: 191\nSingasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "102"
+    }
+  },
+  {
+    "id": "blr-lake-102",
+    "slug": "handrahalli-kere-bangalore-north-north",
+    "name": "Handrahalli kere Bangalore North North",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Doddabedakallu,ward no.40",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "103"
+    }
+  },
+  {
+    "id": "blr-lake-103",
+    "slug": "lingadeeranahalli-handrahalli-lake-bangalore-north",
+    "name": "Lingadeeranahalli (handrahalli) Lake Bangalore North",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Doddabedakallu,ward no.40",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "104"
+    }
+  },
+  {
+    "id": "blr-lake-104",
+    "slug": "herohalli-lake-bangalore-north",
+    "name": "Herohalli Lake Bangalore North",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Herohalli-72",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "105"
+    }
+  },
+  {
+    "id": "blr-lake-105",
+    "slug": "vishwaneedam-lake-bangalore-north",
+    "name": "Vishwaneedam Lake Bangalore North",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Herohalli-72",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "106"
+    }
+  },
+  {
+    "id": "blr-lake-106",
+    "slug": "mallathahalli-lake",
+    "name": "Mallathahalli lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Ullala Ward No.130",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "107"
+    }
+  },
+  {
+    "id": "blr-lake-107",
+    "slug": "ullala-lake",
+    "name": "Ullala lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Gnana Bharathi-129 & Ullala\n-130",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "108"
+    }
+  },
+  {
+    "id": "blr-lake-108",
+    "slug": "dubasipalya-lake-valagerehalli",
+    "name": "Dubasipalya lake (Valagerehalli)",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Gnana Bharathi-129 & Ullala\n-130",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "109"
+    }
+  },
+  {
+    "id": "blr-lake-109",
+    "slug": "chikkabasthi-lake",
+    "name": "Chikkabasthi lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Panchayath Limit (Out of\nBBMP)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "110"
+    }
+  },
+  {
+    "id": "blr-lake-110",
+    "slug": "mangammanahalli-lake",
+    "name": "Mangammanahalli lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Panchayath Limit (Out of\nBBMP)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "111"
+    }
+  },
+  {
+    "id": "blr-lake-111",
+    "slug": "kengeri-lake",
+    "name": "Kengeri Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura, ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "112"
+    }
+  },
+  {
+    "id": "blr-lake-112",
+    "slug": "gandhinagar-hosakerehalli",
+    "name": "Gandhinagar Hosakerehalli",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Ullala -130",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "113"
+    }
+  },
+  {
+    "id": "blr-lake-113",
+    "slug": "h-gollahalli-kere-bangalore-south",
+    "name": "H Gollahalli kere/ Bangalore South",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura,ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "114"
+    }
+  },
+  {
+    "id": "blr-lake-114",
+    "slug": "jogi-kere-bangalore-south",
+    "name": "Jogi kere / Bangalore South",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura,ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "115"
+    }
+  },
+  {
+    "id": "blr-lake-115",
+    "slug": "lingadeeranahalli",
+    "name": "Lingadeeranahalli",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura, ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "116"
+    }
+  },
+  {
+    "id": "blr-lake-116",
+    "slug": "varahasandra-lake",
+    "name": "Varahasandra Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura, ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "117"
+    }
+  },
+  {
+    "id": "blr-lake-117",
+    "slug": "konasandra-lake",
+    "name": "Konasandra Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura, ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "118"
+    }
+  },
+  {
+    "id": "blr-lake-118",
+    "slug": "sompura-lake",
+    "name": "Sompura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura, ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "119"
+    }
+  },
+  {
+    "id": "blr-lake-119",
+    "slug": "gattigerepalya-sompura-lake",
+    "name": "Gattigerepalya (Sompura) lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura, ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "120"
+    }
+  },
+  {
+    "id": "blr-lake-120",
+    "slug": "talghatapura-lake",
+    "name": "Talghatapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura, ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "121"
+    }
+  },
+  {
+    "id": "blr-lake-121",
+    "slug": "chikkagowdanapalya-lake",
+    "name": "Chikkagowdanapalya lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura, ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "122"
+    }
+  },
+  {
+    "id": "blr-lake-122",
+    "slug": "mylasandra-sunnakallu-palya-lake",
+    "name": "Mylasandra (Sunnakallu palya) lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura, ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "123"
+    }
+  },
+  {
+    "id": "blr-lake-123",
+    "slug": "busegowdana-lake",
+    "name": "Busegowdana lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura, ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "124"
+    }
+  },
+  {
+    "id": "blr-lake-124",
+    "slug": "bayyapanapalya-kunte-bangalore-south",
+    "name": "Bayyapanapalya Kunte/ Bangalore South",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Hemmigepura, ward no-198",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "125"
+    }
+  },
+  {
+    "id": "blr-lake-125",
+    "slug": "kodigehalli-lake-bangalore-north",
+    "name": "Kodigehalli lake / Bangalore North",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Panchayath Limit (Out of\nBBMP)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "126"
+    }
+  },
+  {
+    "id": "blr-lake-126",
+    "slug": "kenchanpura-lake",
+    "name": "Kenchanpura lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Panchayath Limit (Out of\nBBMP)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "127"
+    }
+  },
+  {
+    "id": "blr-lake-127",
+    "slug": "kanna-halli-lake",
+    "name": "Kanna halli lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153-Yeshwanthpura",
+    "ward": "Panchayath Limit (Out of\nBBMP)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "128"
+    }
+  },
+  {
+    "id": "blr-lake-128",
+    "slug": "soolikere",
+    "name": "Soolikere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Panchayath Limit (Out of\nBBMP)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "129"
+    }
+  },
+  {
+    "id": "blr-lake-129",
+    "slug": "bhimana-kuppe",
+    "name": "Bhimana kuppe",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "153- Yashwanthpura",
+    "ward": "Panchayath Limit (Out of\nBBMP)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "130"
+    }
+  },
+  {
+    "id": "blr-lake-130",
+    "slug": "j-p-park-bangalore-north",
+    "name": "J.P Park / Bangalore North",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "RajaRajeshwari Nagar,ward no 154",
+    "ward": "J.P park ward no 17",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "131"
+    }
+  },
+  {
+    "id": "blr-lake-131",
+    "slug": "srigandadkaval",
+    "name": "Srigandadkaval",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "154 Rajarajeshwarinagara",
+    "ward": "RajaRajeshwari Nagar,ward\nno 160",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "132"
+    }
+  },
+  {
+    "id": "blr-lake-132",
+    "slug": "nagarabhavi-lake",
+    "name": "Nagarabhavi Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "154 Rajarajeshwarinagara",
+    "ward": "Not listed",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "133"
+    }
+  },
+  {
+    "id": "blr-lake-133",
+    "slug": "bheemana-katte",
+    "name": "Bheemana Katte",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "154 Rajarajeshwarinagara",
+    "ward": "RajaRajeshwari Nagar,ward\nno 160",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "134"
+    }
+  },
+  {
+    "id": "blr-lake-134",
+    "slug": "pattangere-kenchenahalli-lake",
+    "name": "Pattangere/Kenchenahalli lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "154 Rajarajeshwarinagara",
+    "ward": "RajaRajeshwari Nagar,ward\nno 160",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "135"
+    }
+  },
+  {
+    "id": "blr-lake-135",
+    "slug": "halage-vaderahalli-lake",
+    "name": "Halage vaderahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "154 Rajarajeshwarinagara",
+    "ward": "RajaRajeshwari Nagar,ward\nno 160",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "136"
+    }
+  },
+  {
+    "id": "blr-lake-136",
+    "slug": "hoskerehalli-lake",
+    "name": "Hoskerehalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "154 Rajarajeshwarinagara",
+    "ward": "RajaRajeshwari Nagar,ward\nno 160",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "137"
+    }
+  },
+  {
+    "id": "blr-lake-137",
+    "slug": "chikka-bettahalli-lake",
+    "name": "Chikka Bettahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Yalahanka",
+    "ward": "3. Attur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "138"
+    }
+  },
+  {
+    "id": "blr-lake-138",
+    "slug": "veerasagara-lake",
+    "name": "Veerasagara lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Yalahanka",
+    "ward": "3. Attur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "139"
+    }
+  },
+  {
+    "id": "blr-lake-139",
+    "slug": "harohalli-lake",
+    "name": "Harohalli lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Yalahanka",
+    "ward": "2. Chowdeshwari",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "140"
+    }
+  },
+  {
+    "id": "blr-lake-140",
+    "slug": "yelahanka-amani-kere",
+    "name": "Yelahanka Amani kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Yalahanka",
+    "ward": "1. Kempegowda",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "141"
+    }
+  },
+  {
+    "id": "blr-lake-141",
+    "slug": "attur-lake",
+    "name": "Attur lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Yalahanka",
+    "ward": "3. Attur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "142"
+    }
+  },
+  {
+    "id": "blr-lake-142",
+    "slug": "allalasandra-lake",
+    "name": "Allalasandra lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Yalahanka",
+    "ward": "4. Yalahanaka Satellite Town",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "143"
+    }
+  },
+  {
+    "id": "blr-lake-143",
+    "slug": "srinivasapura-lake",
+    "name": "Srinivasapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Yalahanka",
+    "ward": "1. Kempegowda",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "144"
+    }
+  },
+  {
+    "id": "blr-lake-144",
+    "slug": "shivanahalli-lake",
+    "name": "Shivanahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Yalahanka",
+    "ward": "4. Yalahanaka Satellite Town",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "145"
+    }
+  },
+  {
+    "id": "blr-lake-145",
+    "slug": "rachenahalli-lake",
+    "name": "Rachenahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "5. jakkur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "146"
+    }
+  },
+  {
+    "id": "blr-lake-146",
+    "slug": "amruthahalli-lake",
+    "name": "Amruthahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "7. Byatarayanpura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "147"
+    }
+  },
+  {
+    "id": "blr-lake-147",
+    "slug": "doddabommasandra-lake",
+    "name": "Doddabommasandra Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "10. Doddabommasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "148"
+    }
+  },
+  {
+    "id": "blr-lake-148",
+    "slug": "singapura-lake",
+    "name": "Singapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "11. Kuvempu Nagar",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "149"
+    }
+  },
+  {
+    "id": "blr-lake-149",
+    "slug": "narasipura-lake-20",
+    "name": "Narasipura Lake 20",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "9. Vidyaranyapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "150"
+    }
+  },
+  {
+    "id": "blr-lake-150",
+    "slug": "narasipura-lake-26",
+    "name": "Narasipura Lake 26",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "9. Vidyaranyapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "151"
+    }
+  },
+  {
+    "id": "blr-lake-151",
+    "slug": "kogilu-lake",
+    "name": "Kogilu Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "5. jakkur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "152"
+    }
+  },
+  {
+    "id": "blr-lake-152",
+    "slug": "palanahalli-lake",
+    "name": "Palanahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "5. jakkur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "153"
+    }
+  },
+  {
+    "id": "blr-lake-153",
+    "slug": "kattigenahalli-lake",
+    "name": "Kattigenahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "5. jakkur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "154"
+    }
+  },
+  {
+    "id": "blr-lake-154",
+    "slug": "jakkur-lake",
+    "name": "Jakkur Lake",
+    "aliases": [
+      "Jakkur Kere"
+    ],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "5. jakkur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "report_in_progress",
+    "coordinates": [
+      77.6117,
+      13.0848
+    ],
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "155"
+    }
+  },
+  {
+    "id": "blr-lake-155",
+    "slug": "agrahara-lake",
+    "name": "Agrahara Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "5. jakkur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "156"
+    }
+  },
+  {
+    "id": "blr-lake-156",
+    "slug": "thirumenahalli-lake",
+    "name": "Thirumenahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "5. jakkur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "157"
+    }
+  },
+  {
+    "id": "blr-lake-157",
+    "slug": "chokkanahalli-lake",
+    "name": "Chokkanahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "5. jakkur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "158"
+    }
+  },
+  {
+    "id": "blr-lake-158",
+    "slug": "venkateshapura-lake",
+    "name": "Venkateshapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Byatarayanapura",
+    "ward": "5. jakkur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "159"
+    }
+  },
+  {
+    "id": "blr-lake-159",
+    "slug": "kempambudhi-lake",
+    "name": "Kempambudhi Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Basavanagudi",
+    "ward": "Hanumanthanagar",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "160"
+    }
+  },
+  {
+    "id": "blr-lake-160",
+    "slug": "yediyur-lake",
+    "name": "Yediyur Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Padmanabanagar",
+    "ward": "Yediyur",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "161"
+    }
+  },
+  {
+    "id": "blr-lake-161",
+    "slug": "deepanjali-nagara-lake",
+    "name": "Deepanjali Nagara lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Vijayanagara",
+    "ward": "Attiguppe",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "162"
+    }
+  },
+  {
+    "id": "blr-lake-162",
+    "slug": "gowdanapalya-lake",
+    "name": "Gowdanapalya Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Padmanabanagar",
+    "ward": "Padmanabanagar",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "163"
+    }
+  },
+  {
+    "id": "blr-lake-163",
+    "slug": "byrasandra",
+    "name": "Byrasandra",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Chikkapete",
+    "ward": "Byrasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "164"
+    }
+  },
+  {
+    "id": "blr-lake-164",
+    "slug": "mestripalya-lake",
+    "name": "Mestripalya Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "BTM Layout",
+    "ward": "Koramangala",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "165"
+    }
+  },
+  {
+    "id": "blr-lake-165",
+    "slug": "dasarahalli-chokkasandra-lake",
+    "name": "Dasarahalli (Chokkasandra) Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Dasarahalli",
+    "ward": "Chokkasandra-39",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "166"
+    }
+  },
+  {
+    "id": "blr-lake-166",
+    "slug": "nelagedaranahalli-lake",
+    "name": "Nelagedaranahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Dasarahalli",
+    "ward": "Peenya Industrial Area-41",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "167"
+    }
+  },
+  {
+    "id": "blr-lake-167",
+    "slug": "shivapura-lake",
+    "name": "Shivapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Dasarahalli",
+    "ward": "Peenya Industrial Area-41",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "168"
+    }
+  },
+  {
+    "id": "blr-lake-168",
+    "slug": "bagalagunte-lake",
+    "name": "Bagalagunte Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Dasarahalli",
+    "ward": "Bagalagunte-14",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "169"
+    }
+  },
+  {
+    "id": "blr-lake-169",
+    "slug": "kammagondanahalli-lake",
+    "name": "Kammagondanahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Dasarahalli",
+    "ward": "Shettihalli-12",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "170"
+    }
+  },
+  {
+    "id": "blr-lake-170",
+    "slug": "mallasandra-gudde-lake",
+    "name": "Mallasandra gudde Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Dasarahalli",
+    "ward": "Mallasandra-13",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "171"
+    }
+  },
+  {
+    "id": "blr-lake-171",
+    "slug": "abbigere-lake",
+    "name": "Abbigere Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Dasarahalli",
+    "ward": "Shettihalli-12",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "172"
+    }
+  },
+  {
+    "id": "blr-lake-172",
+    "slug": "lakshmipura-lake",
+    "name": "Lakshmipura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Dasarahalli",
+    "ward": "Shettihalli-12",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "173"
+    }
+  },
+  {
+    "id": "blr-lake-173",
+    "slug": "doddabidarakallu-nagasandra",
+    "name": "Doddabidarakallu (Nagasandra)",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Yeshwanthapur",
+    "ward": "Doddabidarakallu-40",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "174"
+    }
+  },
+  {
+    "id": "blr-lake-174",
+    "slug": "karihobanahalli",
+    "name": "Karihobanahalli",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Yeshwanthapur",
+    "ward": "Peenya Industrial Area-41",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "175"
+    }
+  },
+  {
+    "id": "blr-lake-175",
+    "slug": "sankey-lake",
+    "name": "Sankey Lake",
+    "aliases": [
+      "Sankey Tank"
+    ],
+    "custodian": "BBMP",
+    "zone": "Malleshwaram",
+    "ward": "Aramanenagara-35",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "report_in_progress",
+    "coordinates": [
+      77.5704,
+      13.0102
+    ],
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "176"
+    }
+  },
+  {
+    "id": "blr-lake-176",
+    "slug": "nayandanahalli-lake",
+    "name": "Nayandanahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Govindarajanagara",
+    "ward": "Nayandanahalli-131",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "177"
+    }
+  },
+  {
+    "id": "blr-lake-177",
+    "slug": "malagala",
+    "name": "Malagala",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Govindarajanagara",
+    "ward": "Kaveripura-103",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "178"
+    }
+  },
+  {
+    "id": "blr-lake-178",
+    "slug": "vijanapura-kere",
+    "name": "Vijanapura kere",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "KR Puram",
+    "ward": "Ward No.51      Vijanapura",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "179"
+    }
+  },
+  {
+    "id": "blr-lake-179",
+    "slug": "byatagunte-playa",
+    "name": "Byatagunte Playa",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "160- Sarvagna Nagara",
+    "ward": "Kammanahalli(28)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "180"
+    }
+  },
+  {
+    "id": "blr-lake-180",
+    "slug": "lingarajapura-lake",
+    "name": "Lingarajapura Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "160- Sarvagna Nagara",
+    "ward": "Kammanahalli(28)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "181"
+    }
+  },
+  {
+    "id": "blr-lake-181",
+    "slug": "geddalahalli",
+    "name": "Geddalahalli",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "160- Sarvagna Nagara",
+    "ward": "Radhakrishna temple(18)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "182"
+    }
+  },
+  {
+    "id": "blr-lake-182",
+    "slug": "konena-agrahara",
+    "name": "Konena Agrahara",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "161-C.V.Raman Nagar",
+    "ward": "Konena Agrahara(113)",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "183"
+    }
+  },
+  {
+    "id": "blr-lake-183",
+    "slug": "bilaekahalli-lingannana-kere-disused-lake",
+    "name": "Bilaekahalli (Lingannana Kere) (Disused lake)",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bommanahalli",
+    "ward": "Ward No: 188\nBilekahalli",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "184"
+    }
+  },
+  {
+    "id": "blr-lake-184",
+    "slug": "dorasanni-palya-disused-lake",
+    "name": "Dorasanni Palya (Disused lake)",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bommanahalli",
+    "ward": "Ward No: 188\nBilekahalli",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "185"
+    }
+  },
+  {
+    "id": "blr-lake-185",
+    "slug": "ittmadu",
+    "name": "Ittmadu",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Padmanabanagar",
+    "ward": "chikkalasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "186"
+    }
+  },
+  {
+    "id": "blr-lake-186",
+    "slug": "chikkakalasandra-lake",
+    "name": "Chikkakalasandra Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Padmanabanagar",
+    "ward": "chikkalasandra",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "187"
+    }
+  },
+  {
+    "id": "blr-lake-187",
+    "slug": "thavarekare",
+    "name": "Thavarekare",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Padmanabanagar",
+    "ward": "Koramangala",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "188"
+    }
+  },
+  {
+    "id": "blr-lake-188",
+    "slug": "karisandra-lake",
+    "name": "Karisandra lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Padmanabanagar",
+    "ward": "Padmanabanagar",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "189"
+    }
+  },
+  {
+    "id": "blr-lake-189",
+    "slug": "nandi-shettappa-lake",
+    "name": "Nandi shettappa lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Padmanabanagar",
+    "ward": "Padmanabanagar",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "190"
+    }
+  },
+  {
+    "id": "blr-lake-190",
+    "slug": "arehalli-2-3-small-tanks-disused-lake",
+    "name": "Arehalli 2 & 3 (Small tanks) (Disused lake)",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bengaluru South",
+    "ward": "Ward No: 184 Uttarahalli",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "191"
+    }
+  },
+  {
+    "id": "blr-lake-191",
+    "slug": "bovimaranahalli",
+    "name": "Bovimaranahalli",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "154 Rajarajeshwarinagara",
+    "ward": "RajaRajeshwari Nagar,ward\nno 160",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "192"
+    }
+  },
+  {
+    "id": "blr-lake-192",
+    "slug": "gundopanth-lake",
+    "name": "Gundopanth lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "154 Rajarajeshwarinagara",
+    "ward": "RajaRajeshwari Nagar,ward\nno 160",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "193"
+    }
+  },
+  {
+    "id": "blr-lake-193",
+    "slug": "kamakshipalya-lake",
+    "name": "Kamakshipalya Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Govindarajanagara",
+    "ward": "Kamakshipalya-101",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "194"
+    }
+  },
+  {
+    "id": "blr-lake-194",
+    "slug": "sanegoravanahalli-lake",
+    "name": "Sanegoravanahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Govindarajanagara",
+    "ward": "Kamakshipalya-101",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "195"
+    }
+  },
+  {
+    "id": "blr-lake-195",
+    "slug": "agraharadasarahalli-lake",
+    "name": "Agraharadasarahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Govindarajanagara",
+    "ward": "Agrahara Dasarahalli-105",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "196"
+    }
+  },
+  {
+    "id": "blr-lake-196",
+    "slug": "gangondanahalli-lake",
+    "name": "Gangondanahalli Lake",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Govindarajanagara",
+    "ward": "Nagarabhavi-128",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "197"
+    }
+  },
+  {
+    "id": "blr-lake-197",
+    "slug": "ramagondahalli",
+    "name": "Ramagondahalli",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bangalore North additional",
+    "ward": "Out of BBMP",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "198"
+    }
+  },
+  {
+    "id": "blr-lake-198",
+    "slug": "avalahalli",
+    "name": "Avalahalli",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bangalore North Additional",
+    "ward": "Out of BBMP",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "199"
+    }
+  },
+  {
+    "id": "blr-lake-199",
+    "slug": "vaderahalli",
+    "name": "Vaderahalli",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bangalore North Additional",
+    "ward": "Out of BBMP",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "200"
+    }
+  },
+  {
+    "id": "blr-lake-200",
+    "slug": "medi-agrahara",
+    "name": "Medi agrahara",
+    "aliases": [],
+    "custodian": "BBMP",
+    "zone": "Bangalore North Additional",
+    "ward": "Out of BBMP",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": "201"
+    }
+  },
+  {
+    "id": "blr-lake-201",
+    "slug": "bellanduru-lake",
+    "name": "Bellanduru Lake",
+    "aliases": [],
+    "custodian": "BDA",
+    "zone": "Bengaluru East & South",
+    "ward": "Not listed",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "coordinates": [
+      77.6669,
+      12.9372
+    ],
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": null
+    }
+  },
+  {
+    "id": "blr-lake-202",
+    "slug": "varthur-lake",
+    "name": "Varthur Lake",
+    "aliases": [],
+    "custodian": "BDA",
+    "zone": "Bengaluru East",
+    "ward": "Not listed",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "coordinates": [
+      77.7418,
+      12.9561
+    ],
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": null
+    }
+  },
+  {
+    "id": "blr-lake-203",
+    "slug": "ramasandra-lake",
+    "name": "Ramasandra Lake",
+    "aliases": [],
+    "custodian": "BDA",
+    "zone": "Bengaluru South",
+    "ward": "Not listed",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": null
+    }
+  },
+  {
+    "id": "blr-lake-204",
+    "slug": "kommaghatta-lake",
+    "name": "Kommaghatta Lake",
+    "aliases": [],
+    "custodian": "BDA",
+    "zone": "Bengaluru South",
+    "ward": "Not listed",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": null
+    }
+  },
+  {
+    "id": "blr-lake-205",
+    "slug": "chikkabanavara-lake",
+    "name": "Chikkabanavara Lake",
+    "aliases": [],
+    "custodian": "BDA",
+    "zone": "Bengaluru North",
+    "ward": "Not listed",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": null
+    }
+  },
+  {
+    "id": "blr-lake-206",
+    "slug": "madivala-lake",
+    "name": "Madivala Lake",
+    "aliases": [],
+    "custodian": "KFD",
+    "zone": "Bengaluru East & South",
+    "ward": "Not listed",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "coordinates": [
+      77.6177,
+      12.9141
+    ],
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": null
+    }
+  },
+  {
+    "id": "blr-lake-207",
+    "slug": "puttenahalli-lake",
+    "name": "Puttenahalli Lake",
+    "aliases": [],
+    "custodian": "KFD",
+    "zone": "Bengaluru North",
+    "ward": "Not listed",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "coordinates": [
+      77.5857,
+      12.8911
+    ],
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": null
+    }
+  },
+  {
+    "id": "blr-lake-208",
+    "slug": "hebbala-lake",
+    "name": "Hebbala Lake",
+    "aliases": [],
+    "custodian": "KFD",
+    "zone": "Bengaluru North",
+    "ward": "Not listed",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "coordinates": [
+      77.5868,
+      13.0466
+    ],
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": null
+    }
+  },
+  {
+    "id": "blr-lake-209",
+    "slug": "nagavara-lake",
+    "name": "Nagavara Lake",
+    "aliases": [],
+    "custodian": "KFD",
+    "zone": "Bengaluru North",
+    "ward": "Not listed",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": null
+    }
+  },
+  {
+    "id": "blr-lake-210",
+    "slug": "veerasandra-lake",
+    "name": "Veerasandra Lake",
+    "aliases": [],
+    "custodian": "BMRCL",
+    "zone": "Anekal Taluk",
+    "ward": "Not listed",
+    "administrativeArea": "Bengaluru Urban",
+    "status": "not_field_checked",
+    "source": {
+      "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
+      "publishedAt": "2024-01-01",
+      "retrievedAt": "2026-09-05",
+      "sourceSerial": null
+    }
+  }
+]
