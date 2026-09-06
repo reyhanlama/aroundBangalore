@@ -1,8 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import * as maplibregl from 'maplibre-gl';
 import type { Map as MapLibreMap, Marker } from 'maplibre-gl';
-import type { LakeIndexEntry, Coordinates } from '../types';
-import { reportBySlug } from '../data/reports';
+import type { Coordinates, LakeIndexEntry } from '../types';
 
 const fallbackStyle = 'https://tiles.openfreemap.org/styles/liberty';
 const configuredStyle = import.meta.env.VITE_MAP_STYLE_URL as string | undefined;
@@ -20,7 +19,7 @@ export function AtlasMap({ lakes, selected, onSelect, userLocation }: AtlasMapPr
   const container = useRef<HTMLDivElement>(null);
   const mapRef = useRef<MapLibreMap | null>(null);
   const markersRef = useRef<Marker[]>([]);
-  const [mapFailed, setMapFailed] = useState(false);
+  const [mapFailed, setMapFailed] = useState(!navigator.onLine);
 
   useEffect(() => {
     if (!container.current || mapRef.current) return;
@@ -34,8 +33,22 @@ export function AtlasMap({ lakes, selected, onSelect, userLocation }: AtlasMapPr
     mapRef.current = map;
     map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
     map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-left');
-    map.on('error', () => setMapFailed(true));
-    return () => { map.remove(); mapRef.current = null; };
+
+    const timeout = window.setTimeout(() => { if (!map.isStyleLoaded()) setMapFailed(true); }, 12000);
+    const ready = () => { window.clearTimeout(timeout); setMapFailed(false); };
+    const wentOffline = () => setMapFailed(!map.isStyleLoaded());
+    const cameOnline = () => { setMapFailed(false); if (!map.isStyleLoaded()) map.setStyle(styleUrl); };
+    map.on('load', ready);
+    window.addEventListener('offline', wentOffline);
+    window.addEventListener('online', cameOnline);
+
+    return () => {
+      window.clearTimeout(timeout);
+      window.removeEventListener('offline', wentOffline);
+      window.removeEventListener('online', cameOnline);
+      map.remove();
+      mapRef.current = null;
+    };
   }, []);
 
   useEffect(() => {
@@ -45,9 +58,10 @@ export function AtlasMap({ lakes, selected, onSelect, userLocation }: AtlasMapPr
     markersRef.current = lakes.flatMap((lake) => {
       if (!lake.coordinates) return [];
       const element = document.createElement('button');
-      element.className = `atlas-marker marker-${lake.status}${selected?.id === lake.id ? ' selected' : ''}`;
+      const fieldStatus = lake.status === 'field_checked' ? 'checked' : 'record-only';
+      element.className = `atlas-marker marker-${fieldStatus}${selected?.id === lake.id ? ' selected' : ''}`;
       element.type = 'button';
-      element.setAttribute('aria-label', `${lake.name}, ${lake.status.replaceAll('_', ' ')}`);
+      element.setAttribute('aria-label', `${lake.name}, location verified, ${lake.status.replaceAll('_', ' ')}`);
       element.addEventListener('click', () => onSelect(lake));
       return [new maplibregl.Marker({ element }).setLngLat(lake.coordinates).addTo(map)];
     });
@@ -56,17 +70,14 @@ export function AtlasMap({ lakes, selected, onSelect, userLocation }: AtlasMapPr
   useEffect(() => {
     const map = mapRef.current;
     if (!map || !selected?.coordinates) return;
-    map.flyTo({ center: selected.coordinates, zoom: Math.max(map.getZoom(), 12.3), duration: 700, essential: true });
-    const sourceId = 'selected-route';
-    const report = reportBySlug.get(selected.slug);
-    const update = () => {
-      if (map.getLayer('selected-route-line')) map.removeLayer('selected-route-line');
-      if (map.getSource(sourceId)) map.removeSource(sourceId);
-      if (!report) return;
-      map.addSource(sourceId, { type: 'geojson', data: report.route });
-      map.addLayer({ id: 'selected-route-line', type: 'line', source: sourceId, paint: { 'line-color': '#ff7138', 'line-width': 5, 'line-dasharray': [1.2, 1.1] } });
-    };
-    map.isStyleLoaded() ? update() : map.once('load', update);
+    const isMobile = window.matchMedia('(max-width: 759px)').matches;
+    map.flyTo({
+      center: selected.coordinates,
+      zoom: Math.max(map.getZoom(), 12.3),
+      duration: 650,
+      essential: true,
+      padding: isMobile ? { top: 20, right: 20, bottom: 280, left: 20 } : { top: 20, right: 410, bottom: 20, left: 20 }
+    });
   }, [selected]);
 
   useEffect(() => {
@@ -74,15 +85,14 @@ export function AtlasMap({ lakes, selected, onSelect, userLocation }: AtlasMapPr
     const element = document.createElement('span');
     element.className = 'user-marker';
     const marker = new maplibregl.Marker({ element }).setLngLat(userLocation).addTo(mapRef.current);
-    mapRef.current.flyTo({ center: userLocation, zoom: 12, duration: 700 });
+    mapRef.current.flyTo({ center: userLocation, zoom: 12, duration: 650 });
     return () => { marker.remove(); };
   }, [userLocation]);
 
   return (
     <div className="map-frame">
-      <div ref={container} className="map-canvas" aria-label="Interactive map of Bengaluru lakes" />
-      <div className="map-atlas-overlay" aria-hidden="true"><i /><i /><i /><b>BLR 12.97° N</b></div>
-      {mapFailed && <div className="map-error" role="status"><b>Map unavailable</b><span>The directory and saved field notes still work offline.</span></div>}
+      <div ref={container} className="map-canvas" role="region" aria-label="Interactive map of verified Bengaluru lake locations" />
+      {mapFailed && <div className="map-error" role="status"><b>Basemap unavailable</b><span>The complete lake directory still works offline. Reconnect to load map tiles.</span></div>}
     </div>
   );
 }

@@ -24,8 +24,9 @@ VITE_MAP_STYLE_URL=https://example.com/style.json
 ## Content model
 
 - `src/data/lakes.json` is the 210-record, versioned catalogue snapshot.
-- `src/data/reports.ts` contains five sample report shells. They remain labeled as demo content until replaced with verified field visits.
+- `src/data/reports.ts` publishes only verified reports. Draft shells remain outside the public application until real visits, evidence and dates are supplied.
 - Unvisited lake entries must never contain inferred access, path, safety or environmental information.
+- Map links appear only when coordinates include explicit verification metadata and a coordinate source. Lake centroids are never presented as confirmed entrances.
 
 To regenerate the normalized catalogue from an updated authority CSV:
 

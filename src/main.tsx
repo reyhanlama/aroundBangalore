@@ -6,7 +6,13 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 import './styles.css';
 import { App } from './App';
 
-registerSW({ immediate: true });
+let updateServiceWorker: (reloadPage?: boolean) => Promise<void>;
+updateServiceWorker = registerSW({
+  immediate: true,
+  onNeedRefresh() {
+    window.dispatchEvent(new CustomEvent('nadi-sw-update', { detail: () => updateServiceWorker(true) }));
+  }
+});
 if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(

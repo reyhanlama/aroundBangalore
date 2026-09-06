@@ -112,11 +112,17 @@
     "zone": "Mahadevapura",
     "ward": "Ward No.150      Bellandur",
     "administrativeArea": "Bengaluru Urban",
-    "status": "report_in_progress",
+    "status": "not_field_checked",
     "coordinates": [
-      77.6807,
-      12.9113
+      77.6722021,
+      12.9131869
     ],
+    "locationVerification": {
+      "status": "verified",
+      "method": "geospatial_source",
+      "verifiedAt": "2026-09-06",
+      "sourceUrl": "https://www.openstreetmap.org/relation/6820030"
+    },
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",
@@ -866,11 +872,17 @@
     "zone": "162-Shivajinagar",
     "ward": "Halasur ward (90)",
     "administrativeArea": "Bengaluru Urban",
-    "status": "report_in_progress",
+    "status": "not_field_checked",
     "coordinates": [
-      77.6196,
-      12.9819
+      77.6191669,
+      12.9823891
     ],
+    "locationVerification": {
+      "status": "verified",
+      "method": "geospatial_source",
+      "verifiedAt": "2026-09-06",
+      "sourceUrl": "https://www.openstreetmap.org/relation/1857615"
+    },
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",
@@ -1008,11 +1020,17 @@
     "zone": "Bommanahalli",
     "ward": "Ward No: 174\nHSR Layout",
     "administrativeArea": "Bengaluru Urban",
-    "status": "report_in_progress",
+    "status": "not_field_checked",
     "coordinates": [
-      77.6387,
-      12.9121
+      77.6418242,
+      12.9201739
     ],
+    "locationVerification": {
+      "status": "verified",
+      "method": "geospatial_source",
+      "verifiedAt": "2026-09-06",
+      "sourceUrl": "https://www.openstreetmap.org/relation/8469370"
+    },
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",
@@ -2629,11 +2647,17 @@
     "zone": "Byatarayanapura",
     "ward": "5. jakkur",
     "administrativeArea": "Bengaluru Urban",
-    "status": "report_in_progress",
+    "status": "not_field_checked",
     "coordinates": [
-      77.6117,
-      13.0848
+      77.6116693,
+      13.0867157
     ],
+    "locationVerification": {
+      "status": "verified",
+      "method": "geospatial_source",
+      "verifiedAt": "2026-09-06",
+      "sourceUrl": "https://www.openstreetmap.org/relation/9321012"
+    },
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",
@@ -2992,11 +3016,17 @@
     "zone": "Malleshwaram",
     "ward": "Aramanenagara-35",
     "administrativeArea": "Bengaluru Urban",
-    "status": "report_in_progress",
+    "status": "not_field_checked",
     "coordinates": [
-      77.5704,
-      13.0102
+      77.5737934,
+      13.0099946
     ],
+    "locationVerification": {
+      "status": "verified",
+      "method": "geospatial_source",
+      "verifiedAt": "2026-09-06",
+      "sourceUrl": "https://www.openstreetmap.org/relation/6030715"
+    },
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",
@@ -3440,9 +3470,15 @@
     "administrativeArea": "Bengaluru Urban",
     "status": "not_field_checked",
     "coordinates": [
-      77.6669,
-      12.9372
+      77.6720227,
+      12.9371445
     ],
+    "locationVerification": {
+      "status": "verified",
+      "method": "geospatial_source",
+      "verifiedAt": "2026-09-06",
+      "sourceUrl": "https://www.openstreetmap.org/relation/19751547"
+    },
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",
@@ -3461,9 +3497,15 @@
     "administrativeArea": "Bengaluru Urban",
     "status": "not_field_checked",
     "coordinates": [
-      77.7418,
-      12.9561
+      77.739263,
+      12.9483533
     ],
+    "locationVerification": {
+      "status": "verified",
+      "method": "geospatial_source",
+      "verifiedAt": "2026-09-06",
+      "sourceUrl": "https://www.openstreetmap.org/relation/19306126"
+    },
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",
@@ -3533,9 +3575,15 @@
     "administrativeArea": "Bengaluru Urban",
     "status": "not_field_checked",
     "coordinates": [
-      77.6177,
-      12.9141
+      77.6177254,
+      12.9082268
     ],
+    "locationVerification": {
+      "status": "verified",
+      "method": "geospatial_source",
+      "verifiedAt": "2026-09-06",
+      "sourceUrl": "https://www.openstreetmap.org/relation/2310417"
+    },
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",
@@ -3554,9 +3602,15 @@
     "administrativeArea": "Bengaluru Urban",
     "status": "not_field_checked",
     "coordinates": [
-      77.5857,
-      12.8911
+      77.5770582,
+      13.1119851
     ],
+    "locationVerification": {
+      "status": "verified",
+      "method": "geospatial_source",
+      "verifiedAt": "2026-09-06",
+      "sourceUrl": "https://www.openstreetmap.org/relation/15989750"
+    },
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",
@@ -3575,9 +3629,15 @@
     "administrativeArea": "Bengaluru Urban",
     "status": "not_field_checked",
     "coordinates": [
-      77.5868,
-      13.0466
+      77.5867147,
+      13.0472025
     ],
+    "locationVerification": {
+      "status": "verified",
+      "method": "geospatial_source",
+      "verifiedAt": "2026-09-06",
+      "sourceUrl": "https://www.openstreetmap.org/relation/8754543"
+    },
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",

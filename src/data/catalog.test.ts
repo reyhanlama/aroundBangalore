@@ -14,7 +14,14 @@ describe('lake catalogue', () => {
     expect(invalid).toEqual([]);
   });
 
-  it('keeps draft reports explicitly non-verified', () => {
-    expect([...reportBySlug.values()].every((report) => report.verification === 'sample')).toBe(true);
+  it('publishes only verified personal reports', () => {
+    expect([...reportBySlug.values()].every((report) => report.verification === 'verified')).toBe(true);
+  });
+
+  it('keeps location verification separate from field status', () => {
+    const located = lakes.filter((lake) => lake.coordinates);
+    expect(located).toHaveLength(10);
+    expect(located.every((lake) => lake.locationVerification?.status === 'verified')).toBe(true);
+    expect(located.every((lake) => lake.locationVerification?.sourceUrl)).toBe(true);
   });
 });

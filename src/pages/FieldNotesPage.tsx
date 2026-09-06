@@ -1,19 +1,14 @@
 import { Link } from 'react-router-dom';
-import { reports } from '../data/reports';
-import { lakeBySlug } from '../data/catalog';
 
 export function FieldNotesPage() {
   return (
     <div className="notes-page page-wrap">
-      <header className="page-heading"><p className="eyebrow">THE LIVING NOTEBOOK</p><h1>Field notes,<br /><span>visit by visit.</span></h1><p>Conditions change. Every observation stays tied to when it was seen.</p></header>
-      <div className="draft-banner"><b>DEMO CONTENT</b><span>These five report structures are ready for your verified visits, GPX tracks and photography.</span></div>
-      <section className="notes-timeline">
-        {reports.map((report, index) => {
-          const lake = lakeBySlug.get(report.lakeSlug)!;
-          const visit = report.visits[0];
-          return <Link key={report.lakeSlug} to={`/lakes/${report.lakeSlug}`} className="note-row"><div className="timeline-date"><b>{visit.visitedAt.slice(8)}</b><span>SEP</span></div><div><small>DRAFT {String(index + 1).padStart(2,'0')}</small><h2>{lake.aliases[0] || lake.name}</h2><p>{report.summary}</p></div><span className="row-arrow">↗</span></Link>;
-        })}
+      <header className="page-heading"><p className="eyebrow">THE LIVING NOTEBOOK</p><h1>Field notes,<br /><span>when they are ready.</span></h1><p>Every published observation will remain tied to a real place, visit and date.</p></header>
+      <section className="notes-empty">
+        <span className="empty-note-mark" aria-hidden="true">01</span>
+        <div><p className="eyebrow">EDITORIAL STATUS</p><h2>No field notes published yet.</h2><p>Five lake records are being prepared for future visits. We will publish them only after the notes, locations and evidence have been personally verified.</p><Link className="primary-action" to="/lakes">Browse the official directory <span>→</span></Link></div>
       </section>
+      <section className="publishing-checklist"><p className="eyebrow">WHAT A PUBLISHED NOTE WILL INCLUDE</p><div><span>01</span><p><b>Lake identity</b>Official names, custody and sources.</p></div><div><span>02</span><p><b>Dated observations</b>What was seen, where and when.</p></div><div><span>03</span><p><b>Field evidence</b>Verified photography, coordinates and GPX where available.</p></div><div><span>04</span><p><b>Change over time</b>Later visits remain comparable to earlier ones.</p></div></section>
     </div>
   );
 }
