@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" fill="none">
+<defs>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#303647" stroke-opacity=".13" stroke-width=".6"/></pattern>
+ <pattern id="waves" width="16" height="10" patternUnits="userSpaceOnUse"><path d="m0 7 4-4 4 4 4-4 4 4" stroke="#efeee6" stroke-width=".6"/></pattern>
+ <pattern id="trees" width="24" height="30" patternUnits="userSpaceOnUse"><path d="m12 3-6 9h3l-6 9h8v6h2v-6h8l-6-9h3Z" fill="#83aa85"/></pattern>
+ <clipPath id="sheet"><path d="M0 0h700v280H0z"/></clipPath>
+</defs>
+<g clip-path="url(#sheet)">
+<path d="M0 0h700v280H0z" fill="#eeeee5"/>
+<path d="M280-20c-24 62 31 88 81 92 59 4 34 42 114 28S579 40 720 75V-20ZM-20 195c105-60 113 57 192 48s120-45 161 57H-20Z" fill="#c7d8bb"/>
+<path d="M0 0h700v280H0z" fill="url(#grid)"/>
+<g stroke="#7e827d" stroke-width=".65" opacity=".65">
+<path d="M-30 140C20 34 56-21 138-5s80 81 159 90 159-11 190 54 172 94 245 7"/>
+<path d="M-25 156C23 55 61-8 139 10s74 82 151 91 162-17 193 49 170 98 249 15"/>
+<path d="M-20 171C28 80 69 8 139 26s67 78 145 90 163-14 194 47 169 100 254 20"/>
+<path d="M-15 189C28 104 76 23 138 43s60 72 139 88 167-13 197 47 170 100 258 25"/>
+<path d="M-10 207C32 133 82 39 137 59s51 65 132 85 170-12 201 46 173 101 262 35"/>
+<path d="M-5 226C39 157 86 59 136 76s46 56 126 83 172-12 205 46 171 95 265 41"/>
+<path d="M0 245C48 176 90 79 135 92s39 54 120 82 171-9 208 43 171 98 269 49"/>
+<path d="M70 175c13-18 31-80 62-66s32 51 23 70-16 56-43 50-59-31-42-54Z"/>
+<path d="M85 176c12-17 22-56 45-51s21 37 12 55-12 37-29 32-40-18-28-36Z"/>
+<path d="M100 177c9-11 13-39 28-36s12 20 6 37-12 21-20 18-23-7-14-19Z"/>
+<path d="M335-20c-45 48 48 67 99 59s80-65 171-16 78 17 127-5M340-10c-15 25 45 43 89 32S510-28 590 5s92 23 142-3"/>
+</g>
+<path d="M-20 73C45 131 214 18 278 121s114 20 166 12 84 66 130 45 72-55 146-27v38c-79-41-100 58-157 14s-73-36-112-47-118 110-187-17S46 172-20 94Z" fill="#454c91"/>
+<path d="M-20 73C45 131 214 18 278 121s114 20 166 12 84 66 130 45 72-55 146-27v38c-79-41-100 58-157 14s-73-36-112-47-118 110-187-17S46 172-20 94Z" fill="url(#waves)"/>
+<path d="M0 0h105v63H0ZM180 4h85v47h-85ZM335 185h109v95H335ZM515 14h175v104H515Z" fill="url(#trees)"/>
+<path d="M-10 246c94-41 120 51 197-15S227 52 342 73s119 28 165 22 99-71 205-52" stroke="#eeeae1" stroke-width="8"/>
+<path d="M-10 246c94-41 120 51 197-15S227 52 342 73s119 28 165 22 99-71 205-52" stroke="#303647" stroke-width="2"/>
+<path d="M-10 258c94-41 120 51 197-15S228 66 342 85s119 28 165 22 99-71 205-52" stroke="#a76558" stroke-width="1.2" stroke-dasharray="5 4"/>
+<g fill="#e28b52"><path d="m476 179 15 26-15 26-15-26Z"/><path d="m310 26 6 11-6 11-6-11Zm13 0 6 11-6 11-6-11Zm13 0 6 11-6 11-6-11Z"/><path d="m52 204 6 11-6 11-6-11Zm13 0 6 11-6 11-6-11Zm13 0 6 11-6 11-6-11Z"/></g>
+<g fill="#a9786c" stroke="#303647" stroke-width="1"><path d="M195 185h19v11h-19zM204 62h22v10h-22zM369 57h20v10h-20zM574 65h19v11h-19z"/></g>
+<g fill="#303647"><path d="m192 185 6-6h13l6 6Zm9-123 6-6h16l6 6Zm165-5 6-6h14l6 6Zm205 8 6-6h13l6 6Z"/></g>
+</g></svg>

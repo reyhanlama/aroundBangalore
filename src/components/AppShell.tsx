@@ -4,8 +4,8 @@ import { NavLink, useLocation } from 'react-router-dom';
 import { lakeBySlug } from '../data/catalog';
 
 const links = [
-  ['/', 'Explore', '◇'],
-  ['/lakes', 'All lakes', '≋'],
+  ['/', 'Lakes', '≋'],
+  ['/explore', 'Explore', '⌖'],
   ['/field-notes', 'Field notes', '✦'],
   ['/about', 'About', '○']
 ] as const;
@@ -24,12 +24,14 @@ export function AppShell({ children }: { children: ReactNode }) {
   const isStandalone = window.matchMedia('(display-mode: standalone)').matches;
 
   useLayoutEffect(() => {
-    window.scrollTo({ top: 0, behavior: 'auto' });
+    if (location.hash) {
+      document.getElementById(location.hash.slice(1))?.scrollIntoView({ block: 'start' });
+    } else window.scrollTo({ top: 0, behavior: 'auto' });
     const lakeSlug = location.pathname.startsWith('/lakes/') ? location.pathname.split('/')[2] : '';
     const lake = lakeSlug ? lakeBySlug.get(lakeSlug) : undefined;
-    const section = lake ? lake.aliases[0] || lake.name : location.pathname === '/' ? 'Explore' : location.pathname.split('/')[1]?.replace('-', ' ') || 'Explore';
+    const section = lake ? lake.aliases[0] || lake.name : location.pathname === '/' ? 'Lakes' : location.pathname.split('/')[1]?.replace('-', ' ') || 'Lakes';
     document.title = `${section.replace(/^./, (letter) => letter.toUpperCase())} — Nadi`;
-  }, [location.pathname]);
+  }, [location.pathname, location.hash]);
 
   useEffect(() => {
     const wentOnline = () => setOnline(true);
@@ -59,9 +61,9 @@ export function AppShell({ children }: { children: ReactNode }) {
     <div className="app-shell">
       <a className="skip-link" href="#main-content">Skip to content</a>
       <header className="topbar">
-        <NavLink to="/" className="wordmark" aria-label="Nadi home"><span className="wordmark-mark" aria-hidden="true" /><span>NADI</span></NavLink>
-        <span className="edition"><i /> BENGALURU LAKE FIELD GUIDE</span>
-        <span className="catalog-count"><b>210</b> official records</span>
+        <NavLink to="/" className="wordmark" aria-label="Nadi home"><span className="wordmark-mark" aria-hidden="true" /><span>nadi<span className="brand-period">.</span></span></NavLink>
+        <span className="edition">THE CITY, BY WATER.</span>
+        <span className="catalog-count"><i className="live-dot" /> Bengaluru, India</span>
       </header>
 
       {!online && <div className="service-notice offline-notice" role="status"><b>Offline</b><span>The text directory remains available. Basemap tiles may not load.</span></div>}
@@ -72,7 +74,7 @@ export function AppShell({ children }: { children: ReactNode }) {
       <main id="main-content">{children}</main>
       <nav className="bottom-nav" aria-label="Primary navigation">
         {links.map(([to, label, icon]) => (
-          <NavLink key={to} to={to} end={to === '/'} className={({ isActive }) => isActive ? 'active' : ''}>
+          <NavLink key={to} to={to} end={to === '/'} className={({ isActive }) => isActive || (to === '/' && location.pathname.startsWith('/lakes/')) ? 'active' : ''}>
             <i aria-hidden="true">{icon}</i><span>{label}</span>
           </NavLink>
         ))}

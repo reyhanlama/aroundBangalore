@@ -1654,12 +1654,27 @@
     "id": "blr-lake-096",
     "slug": "kodige-singasandra-lake",
     "name": "Kodige Singasandra Lake",
-    "aliases": [],
+    "aliases": [
+      "Kodi Singasandra Lake"
+    ],
     "custodian": "BBMP",
     "zone": "Bengaluru South",
     "ward": "Ward No: 191\nSingasandra",
     "administrativeArea": "Bengaluru Urban",
     "status": "not_field_checked",
+    "coordinates": [
+      77.641832,
+      12.877959
+    ],
+    "locationVerification": {
+      "status": "verified",
+      "method": "official_source",
+      "verifiedAt": "2026-09-09",
+      "sourceUrl": "https://cpcb.nic.in/wqm/WQMN_list.pdf"
+    },
+    "duplicateCandidateIds": [
+      "blr-lake-098"
+    ],
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",
@@ -1694,6 +1709,9 @@
     "ward": "Ward No: 191\nSingasandra",
     "administrativeArea": "Bengaluru Urban",
     "status": "not_field_checked",
+    "duplicateCandidateIds": [
+      "blr-lake-096"
+    ],
     "source": {
       "url": "https://data.opencity.in/dataset/bengaluru-lakes-and-their-maintainers",
       "publishedAt": "2024-01-01",

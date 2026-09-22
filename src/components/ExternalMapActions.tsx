@@ -31,7 +31,7 @@ export function ExternalMapActions({ lake, compact = false }: { lake: LakeIndexE
   return (
     <>
       <button className={compact ? 'map-action compact' : 'map-action'} onClick={() => dialog.current?.showModal()}>
-        <span aria-hidden="true">⌖</span> {entrance ? `Navigate to ${entrance.label}` : 'View lake location'}
+        <span aria-hidden="true">⌖</span> {entrance ? `Navigate to ${entrance.label}` : 'Open in Maps'}
       </button>
       <dialog ref={dialog} className="map-choice" onClose={() => setCopied(false)}>
         <form method="dialog">

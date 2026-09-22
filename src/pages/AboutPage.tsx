@@ -1,7 +1,7 @@
 export function AboutPage() {
   return (
     <div className="about-page page-wrap">
-      <header className="page-heading"><p className="eyebrow">ABOUT NADI</p><h1>A field guide<br /><span>that shows its gaps.</span></h1><p>Nadi joins an official lake catalogue with a smaller set of dated, personally verified observations.</p></header>
+      <header className="page-heading"><p className="eyebrow">ABOUT NADI</p><h1>A closer look. An honest record.</h1><p>Nadi joins an official lake catalogue with a smaller set of dated, personally verified observations.</p></header>
 
       <section className="principles">
         <article><span>01</span><h2>Catalogue is not endorsement</h2><p>A listed lake may not be accessible, restored or suitable for a visit. Until we go, it remains unassessed.</p></article>

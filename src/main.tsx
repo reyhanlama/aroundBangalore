@@ -4,6 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 import { registerSW } from 'virtual:pwa-register';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import './styles.css';
+import './electric.css';
 import { App } from './App';
 
 let updateServiceWorker: (reloadPage?: boolean) => Promise<void>;

@@ -13,19 +13,19 @@ export default defineConfig({
         name: 'Nadi — Bengaluru Lake Field Guide',
         short_name: 'Nadi',
         description: 'A living field guide to Bengaluru’s lakes.',
-        theme_color: '#111b33',
-        background_color: '#f8f5e9',
+        theme_color: '#1832e8',
+        background_color: '#f5f5ef',
         display: 'standalone',
         start_url: '/',
         icons: [{ src: '/nadi-mark.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any maskable' }]
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,json,svg,woff2}'],
+        globPatterns: ['**/*.{js,css,html,json,svg,woff2,webp}'],
         navigateFallback: '/index.html',
         runtimeCaching: [{
           urlPattern: ({ request }) => request.destination === 'image',
           handler: 'CacheFirst',
-          options: { cacheName: 'nadi-field-photos', expiration: { maxEntries: 40, maxAgeSeconds: 2592000 } }
+          options: { cacheName: 'nadi-images', expiration: { maxEntries: 40, maxAgeSeconds: 2592000 } }
         }]
       }
     })

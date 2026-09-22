@@ -20,6 +20,7 @@ const lakeSchema = z.object({
     verifiedAt: z.string(),
     sourceUrl: z.string().url()
   }).optional(),
+  duplicateCandidateIds: z.array(z.string().regex(/^blr-lake-\d{3}$/)).optional(),
   source: z.object({
     url: z.string().url(),
     publishedAt: z.string(),
@@ -36,6 +37,11 @@ const parsed = z.array(lakeSchema).length(210).parse(rawCatalog);
 const ids = new Set(parsed.map((lake) => lake.id));
 const slugs = new Set(parsed.map((lake) => lake.slug));
 if (ids.size !== parsed.length || slugs.size !== parsed.length) throw new Error('Lake IDs and slugs must be unique');
+for (const lake of parsed) {
+  for (const candidateId of lake.duplicateCandidateIds ?? []) {
+    if (!ids.has(candidateId) || candidateId === lake.id) throw new Error(`Invalid duplicate candidate ${candidateId} for ${lake.id}`);
+  }
+}
 
 export const lakes = parsed.map((lake) => ({ ...lake, entrances: [] })) as LakeIndexEntry[];
 export const locatedLakes = lakes.filter((lake) => lake.coordinates && lake.locationVerification?.status === 'verified');
@@ -47,4 +53,12 @@ export const statusLabel: Record<LakeStatus, string> = {
   report_in_progress: 'Report in progress',
   not_field_checked: 'Not yet field-checked',
   temporarily_inaccessible: 'Temporarily inaccessible'
+};
+
+export const custodianLabel: Record<LakeIndexEntry['custodian'], string> = {
+  BBMP: 'Bruhat Bengaluru Mahanagara Palike',
+  BDA: 'Bengaluru Development Authority',
+  KFD: 'Karnataka Forest Department',
+  BMRCL: 'Bangalore Metro Rail Corporation Limited',
+  LDA: 'Lake Development Authority'
 };

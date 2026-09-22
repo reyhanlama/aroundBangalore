@@ -58,21 +58,60 @@ export interface Visit {
   weather: string;
   note: string;
   observations: SegmentObservation[];
-  ratings?: {
-    runability: number;
-    environment: number;
-    comfort: number;
-    experience: number;
-  };
+}
+
+export interface ActivityEvidence {
+  source: 'strava' | 'apple_fitness' | 'gpx' | 'other';
+  capturedAt: string;
+  screenshotSrc?: string;
+  originalTrackSrc?: string;
+  distanceKm?: number;
+  durationMinutes?: number;
+  elevationGainMetres?: number;
+  route?: GeoJSON.Feature<GeoJSON.LineString>;
+}
+
+export interface EvidenceCitation {
+  id: string;
+  title: string;
+  url: string;
+  publishedAt?: string;
+  retrievedAt: string;
+  note?: string;
+}
+
+export interface EnvironmentalMeasurement {
+  measuredAt: string;
+  parameter: string;
+  value: number;
+  unit: string;
+  sourceId: string;
+}
+
+export interface ReportPhoto {
+  src: string;
+  alt: string;
+  caption?: string;
+  takenAt: string;
+}
+
+export interface Rating {
+  category: 'shade' | 'surface' | 'calmness' | 'wayfinding';
+  score: number;
+  note?: string;
 }
 
 export interface LakeReport {
   lakeSlug: string;
-  verification: 'verified';
+  verification: 'verified' | 'sample';
   summary: string;
   route?: GeoJSON.Feature<GeoJSON.LineString>;
+  activity?: ActivityEvidence;
   visits: Visit[];
-  photos: Array<{ src: string; alt: string; takenAt: string }>;
+  ratings?: Rating[];
+  photos: ReportPhoto[];
+  evidence?: EvidenceCitation[];
+  measurements?: EnvironmentalMeasurement[];
 }
 
 declare global {
